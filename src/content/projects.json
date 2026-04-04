@@ -1,0 +1,27 @@
+{
+  "sectionTitle": "Проекты",
+  "sectionSubtitle": "Один production-кейс: storefront, checkout и админка с аналитикой",
+  "featured": {
+    "title": "Clothify Store — E-commerce App with Analytics Dashboard",
+    "description": [
+      "E-commerce веб-приложение с каталогом товаров, корзиной и полноценным пользовательским флоу оформления заказа. Реализована интеграция с REST API, управление состоянием корзины и обработка заказов.",
+      "Дополнительно разработана админ-панель с аналитикой: отображение заказов, топ товаров и базовые метрики (выручка, конверсия, средний чек).",
+      "Основной акцент сделан на архитектуре компонентов, работе с данными, UX и интеграции frontend с backend."
+    ],
+    "whatIDid": {
+      "title": "What I did",
+      "items": [
+        "Реализовала каталог товаров и карточки",
+        "Разработала логику корзины и checkout flow",
+        "Интегрировала REST API (products, orders, sessions)",
+        "Создала админ-панель с аналитикой",
+        "Настроила деплой (Vercel + Render)"
+      ]
+    },
+    "stack": ["React", "Vite", "Tailwind CSS", "REST API"],
+    "liveUrl": "https://ecommerce-analytics-app-kappa.vercel.app",
+    "repoUrl": "https://github.com/FEdorinA-swaGGer/ecommerce-analytics-app",
+    "badge": "Избранное",
+    "previewImage": "/ecommerce-preview.png"
+  }
+}

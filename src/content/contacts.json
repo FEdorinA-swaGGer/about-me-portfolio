@@ -1,0 +1,22 @@
+{
+  "sectionTitle": "Контакты",
+  "headline": "Давайте создавать продукт вместе",
+  "intro": "Открыта к предложениям: команда, продукт, стартап или проектная занятость. Пишите — отвечу в рабочие часы.",
+  "items": [
+    {
+      "label": "Email",
+      "value": "fedorina.swagger@gmail.com",
+      "href": "mailto:fedorina.swagger@gmail.com"
+    },
+    {
+      "label": "GitHub",
+      "value": "FEdorinA-swaGGer",
+      "href": "https://github.com/FEdorinA-swaGGer"
+    },
+    {
+      "label": "Телефон",
+      "value": "+7 (951)670-14-55",
+      "href": "tel:+79516701455"
+    }
+  ]
+}

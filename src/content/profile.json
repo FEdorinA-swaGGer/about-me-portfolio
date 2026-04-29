@@ -8,7 +8,7 @@
     "secondaryCta": "Связаться",
     "primaryTargetId": "projects",
     "secondaryTargetId": "contact",
-    "photoSrc": "/avatar.png"
+    "photoSrc": "/avatar.jpg"
   },
   "about": {
     "sectionTitle": "О себе",

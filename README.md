@@ -1,16 +1,47 @@
-# React + Vite
+# Портфолио frontend-разработчика
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ **Сайт:** https://about-me-portfolio-gamma.vercel.app  
+ **Репозиторий:** https://github.com/FEdorinA-swaGGer/about-me-portfolio
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## О проекте
 
-## React Compiler
+Это мой персональный сайт-портфолио, где я представляю себя как начинающий frontend-разработчик с интересом к дизайну, моде и современным цифровым продуктам.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Проект создан для того, чтобы показать мои базовые навыки во frontend-разработке, умение работать с визуальной частью интерфейса и собирать аккуратные адаптивные страницы.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Что реализовано
+
+- главная секция с краткой информацией обо мне;
+- блок с проектами;
+- блок с навыками и технологиями;
+- контактная секция;
+- адаптивная верстка;
+- современный визуальный стиль;
+- плавные анимации интерфейса.
+
+---
+
+## Технологии
+
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+- Framer Motion
+- HTML
+- CSS
+- Vercel
+
+---
+
+## Как запустить проект локально
+
+```bash
+git clone https://github.com/FEdorinA-swaGGer/about-me-portfolio.git
+cd about-me-portfolio
+npm install
+npm run dev
